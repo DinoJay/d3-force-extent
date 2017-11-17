@@ -1,0 +1,21 @@
+{
+  "name": "d3-force-extent",
+  "version": "0.0.1",
+  "description":
+    "restrict bounding boxes to a viewport in a d3 force simulation",
+  "keywords": ["d3", "d3-module", "forceSimulation", "collide"],
+  "license": "MINT",
+  "main": "build/d3-force-container.js",
+  "author": {
+    "name": "DinoJay",
+    "email": "jmaushag@gmail.com"
+  },
+  "homepage": "https://github.com/DinoJay/d3-force-extent/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DinoJay/d3-force-extent.git"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
