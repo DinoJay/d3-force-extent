@@ -1,1 +1,2 @@
-export {default as forceExtent} from "./src/forceExtent";
+import forceExtent from "./src/forceExtent";
+export default forceExtent;

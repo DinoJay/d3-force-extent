@@ -1,0 +1,3 @@
+[submodule "testing2"]
+	path = testing2
+	url = https://github.com/DinoJay/d3-babel-webpack
